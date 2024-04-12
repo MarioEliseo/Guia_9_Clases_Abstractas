@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1712699202 source:c:\users\rodri\documents\progrmación ii\guia_9_lab\main.cpp
+	<iostream>
+	"OSWindows.h"
+	"OSLinux.h"
+	"OSOSx.h"
+
+1712353948 c:\users\rodri\documents\progrmación ii\guia_9_lab\include\oswindows.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712680516 c:\users\rodri\documents\progrmación ii\guia_9_lab\include\iapariencia.h
+
+1712680516 source:c:\users\rodri\documents\progrmación ii\guia_9_lab\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712527757 source:c:\users\rodri\documents\progrmación ii\guia_9_lab\src\oswindows.cpp
+	"OSWindows.h"
+
+1712680708 source:c:\users\rodri\documents\progrmación ii\guia_9_lab\src\oslinux.cpp
+	"OSLinux.h"
+
+1712680141 c:\users\rodri\documents\progrmación ii\guia_9_lab\include\oslinux.h
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"lApariencia.h"
+
+1712627286 source:c:\users\rodri\documents\progrmación ii\guia_9_lab\src\ososx.cpp
+	"OSOSx.h"
+
+1712680357 c:\users\rodri\documents\progrmación ii\guia_9_lab\include\ososx.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"oApariencia.h"
+
+1712680057 c:\users\rodri\documents\progrmación ii\guia_9_lab\include\lapariencia.h
+
+1712679926 source:c:\users\rodri\documents\progrmación ii\guia_9_lab\src\lapariencia.cpp
+	"lApariencia.h"
+
+1712680290 c:\users\rodri\documents\progrmación ii\guia_9_lab\include\oapariencia.h
+
+1712680290 source:c:\users\rodri\documents\progrmación ii\guia_9_lab\src\oapariencia.cpp
+	"oApariencia.h"
+
